@@ -3,7 +3,8 @@
         "LICENSE": "plaintext"
     },
     "files.readonlyInclude": {
-        "LICENSE": true
+        "LICENSE": true,
+        "alacritty-schema.json": true
     },
     "cSpell.words": [
         "alacritty"
