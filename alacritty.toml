@@ -9,9 +9,9 @@ italic = { family = "Cascadia Mono", style = "regular" }
 [window]
 dimensions = { columns = 110, lines = 35 }
 padding = { x = 12, y = 12 }
-position = { x = 800, y = 500 }
+position = { x = 900, y = 500 }
 dynamic_title = false
-# decorations = "none"
+decorations = "full"
 
 [shell]
 program = "nu"
@@ -19,15 +19,43 @@ program = "nu"
 [mouse]
 hide_when_typing = true
 
-[colors]
-# primary.background = "#262626"
-primary.background = "#202020"
+[colors.primary]
+background = "#202020"
+foreground = "#bdbdbd"
 
 [colors.normal]
-# white = "#d8d8d8"
-white = "#cccccc"
+white = "#bdbdbd"
+blue = "#4c90a8"
+cyan = "#79af98"
+green = "#879c54"
+red = "#d95f5f"
+yellow = "#cc8b00"
+magenta = "#aa739a"
+
 [colors.bright]
-# white = "#f8f8f8"
-white = "#cccccc"
+white = "#bdbdbd"
+blue = "#4c90a8"
+cyan = "#79af98"
+green = "#879c54"
+red = "#d95f5f"
+yellow = "#cc8b00"
+magenta = "#aa739a"
+
 [colors.dim]
-# white = "#8e8e8e"
+white = "#bdbdbd"
+blue = "#4c90a8"
+cyan = "#79af98"
+green = "#879c54"
+red = "#d95f5f"
+yellow = "#cc8b00"
+magenta = "#aa739a"
+
+[colors.cursor]
+cursor = "#bdbdbd"
+
+[colors.vi_mode_cursor]
+cursor = "#666666"
+
+[cursor]
+vi_mode_style.shape = "Block"
+style.shape = "Underline"

@@ -463,7 +463,7 @@
             },
             "additionalProperties": false
         },
-        "color": {
+        "colors": {
             "properties": {
                 "primary": {
                     "type": "object",
