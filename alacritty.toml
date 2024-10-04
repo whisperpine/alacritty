@@ -57,7 +57,7 @@ magenta = "#aa739a"
 cursor = "#bdbdbd"
 
 [colors.vi_mode_cursor]
-cursor = "#666666"
+cursor = "#cc8b00"
 
 [cursor]
 vi_mode_style.shape = "Block"
