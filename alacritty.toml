@@ -4,10 +4,10 @@
 # "$schema" = "https://raw.githubusercontent.com/distinction-dev/alacritty-schema/main/alacritty/reference.json"
 
 [font]
-normal = { family = "Cascadia Mono" }
-bold = { family = "Cascadia Mono", style = "regular" }
-bold_italic = { family = "Cascadia Mono", style = "regular" }
-italic = { family = "Cascadia Mono", style = "regular" }
+normal = { family = "Cascadia Mono NF" }
+bold = { family = "Cascadia Mono NF", style = "regular" }
+bold_italic = { family = "Cascadia Mono NF", style = "regular" }
+italic = { family = "Cascadia Mono NF", style = "regular" }
 
 [window]
 dimensions = { columns = 110, lines = 35 }
