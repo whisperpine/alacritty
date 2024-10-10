@@ -1,0 +1,9 @@
+#:schema ../alacritty-schema.json
+
+[shell]
+program = "nu"
+
+[window]
+dimensions = { columns = 110, lines = 35 }
+position = { x = 900, y = 500 }
+decorations = "full"

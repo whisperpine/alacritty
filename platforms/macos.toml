@@ -1,0 +1,12 @@
+#:schema ../alacritty-schema.json
+
+[shell]
+program = "/opt/homebrew/bin/nu"
+
+[font]
+size = 14
+
+[window]
+dimensions = { columns = 110, lines = 35 }
+position = { x = 800, y = 500 }
+decorations = "buttonless"

@@ -1,0 +1,8 @@
+#:schema ./alacritty-schema.json
+
+import = [
+    "~/.config/alacritty/common.toml",
+    # platform specific config file:
+    # "~/.config/alacritty/platforms/macos.toml",
+    # "~/.config/alacritty/platforms/windows.toml",
+]
