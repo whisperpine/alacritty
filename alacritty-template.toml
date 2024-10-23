@@ -1,11 +1,10 @@
-#:schema ./alacritty-schema.json
-
+[general]
 import = [
     # Windows:
-    # "~/AppData/Roaming/alacritty/common.toml",
-    # "~/AppData/Roaming/alacritty/platforms/windows.toml",
+    # "./common.toml",
+    # "./platforms/windows.toml",
 
     # macOS:
-    # "~/.config/alacritty/common.toml",
-    # "~/.config/alacritty/platforms/macos.toml",
+    # "./common.toml",
+    # "./platforms/macos.toml",
 ]
