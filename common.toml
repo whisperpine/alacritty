@@ -1,8 +1,3 @@
-#:schema ./alacritty-schema.json
-
-## This schema is outdated:
-# "$schema" = "https://raw.githubusercontent.com/distinction-dev/alacritty-schema/main/alacritty/reference.json"
-
 [font]
 normal = { family = "Cascadia Mono NF" }
 bold = { family = "Cascadia Mono NF", style = "regular" }

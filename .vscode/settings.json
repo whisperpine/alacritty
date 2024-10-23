@@ -4,7 +4,6 @@
     },
     "files.readonlyInclude": {
         "LICENSE": true,
-        "alacritty-schema.json": true
     },
     "cSpell.words": [
         "alacritty"
