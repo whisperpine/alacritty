@@ -6,5 +6,6 @@ dimensions = { columns = 110, lines = 35 }
 position = { x = 800, y = 500 }
 decorations = "buttonless"
 
-[terminal]
-shell = { program = "/opt/homebrew/bin/nu" }
+# [terminal.shell]
+# program = "/etc/profiles/per-user/yusong/bin/nu"
+# args = ["-l"]
