@@ -1,9 +1,9 @@
 [font]
-size = 14
+size = 15
 
 [window]
-dimensions = { columns = 110, lines = 35 }
-position = { x = 800, y = 500 }
+dimensions = { columns = 121, lines = 39 }
+position = { x = 650, y = 390 }
 decorations = "buttonless"
 
 # [terminal.shell]
