@@ -5,6 +5,7 @@ size = 15
 dimensions = { columns = 121, lines = 39 }
 position = { x = 650, y = 390 }
 decorations = "buttonless"
+option_as_alt = "Both"
 
 # [terminal.shell]
 # program = "/etc/profiles/per-user/yusong/bin/nu"
